@@ -61,7 +61,6 @@ public abstract class KhachHang {
       this.donGia = donGia;
    }
 
-   // Phương thức trừu tượng tính thành tiền trả về double
    public abstract double thanhTien();
 
    @Override
